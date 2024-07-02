@@ -1,6 +1,6 @@
 ## 🕹️:video_game: It's-a me, Charlie :video_game:🕹️
 
-# 🖥️ Junior Software Developer 🖥️
+# 🖥️ Software Developer 🖥️
 
 ![](https://github.com/devCharlie84/devCharlie84/blob/main/img_readme_profile.jpg)
 
