@@ -1,4 +1,4 @@
-## 🕹️:video_game: It's-a me, Charlie :video_game:🕹️
+## 🕹️ It's-a me, Charlie 🕹️
 
 # 🖥️ Software Developer 🖥️
 
